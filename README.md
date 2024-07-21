@@ -20,10 +20,15 @@ Some comparisons and analyses done here:
 
 ![image](https://github.com/user-attachments/assets/24d56424-7b91-4ed6-852f-332aa8200a60)
 
+<br>
+
 ![image](https://github.com/user-attachments/assets/7843662e-5e52-440e-a66e-b4c7d7e8dca6)
+
+<br>
 
 ![image](https://github.com/user-attachments/assets/67442263-431b-4ecc-8d04-e41487d16a6a)
 
+<br>
 
 ## Observations
 
